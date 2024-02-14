@@ -1,6 +1,6 @@
 # aipysdk
 
-Small library containing some helpers for implementing the server-side of the Vercel AI SDK in python.
+Small library containing some helpers for implementing the server-side of the Vercel AI SDK in Python.
 
 ## Installation
 
